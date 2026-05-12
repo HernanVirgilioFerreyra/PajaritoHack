@@ -1,0 +1,39 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+*.o
+*.so
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.zip
+build_output.txt
+
+# Data files (optional - adjust as needed)
+# datospajaros.csv
+# audios/
