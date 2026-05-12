@@ -34,6 +34,6 @@ Thumbs.db
 *.zip
 build_output.txt
 
-# Data files (optional - adjust as needed)
-# datospajaros.csv
-# audios/
+# Data files
+datospajaros.csv
+audios/
